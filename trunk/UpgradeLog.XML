@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Zhimera-ratul">
+</Property><Property Name="Solution File" Value="E:\ratul\code\zhimera\trunk\Zhimera-ratul.sln">
+</Property><Property Name="Date" Value="Monday, April 05, 2010">
+</Property><Property Name="Time" Value="18:40 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Zhimera-ratul.sln" Description="File successfully backed up as E:\ratul\code\zhimera\trunkBackup\Backup\Zhimera-ratul.sln">
+</Event><Event ErrorLevel="0" Project="Zhimera-ratul" Source="Zhimera-ratul.csproj" Description="Project file successfully backed up as E:\ratul\code\zhimera\trunkBackup\Backup\Zhimera-ratul.csproj">
+</Event><Event ErrorLevel="0" Project="Zhimera-ratul" Source="ZhimeraProxyNode.cs" Description="File successfully backed up as E:\ratul\code\zhimera\trunkBackup\Backup\ZhimeraProxyNode.cs">
+</Event><Event ErrorLevel="0" Project="Zhimera-ratul" Source="ZhimeraRealNode.cs" Description="File successfully backed up as E:\ratul\code\zhimera\trunkBackup\Backup\ZhimeraRealNode.cs">
+</Event><Event ErrorLevel="0" Project="Zhimera-ratul" Source="Storage\ChordCylinder.cs" Description="File successfully backed up as E:\ratul\code\zhimera\trunkBackup\Backup\Storage\ChordCylinder.cs">
+</Event><Event ErrorLevel="0" Project="Zhimera-ratul" Source="Storage\ChordCylinderManager.cs" Description="File successfully backed up as E:\ratul\code\zhimera\trunkBackup\Backup\Storage\ChordCylinderManager.cs">
+</Event><Event ErrorLevel="0" Project="Zhimera-ratul" Source="Storage\IChordRing.cs" Description="File successfully backed up as E:\ratul\code\zhimera\trunkBackup\Backup\Storage\IChordRing.cs">
+</Event><Event ErrorLevel="0" Project="Zhimera-ratul" Source="Storage\ProxyChordRing.cs" Description="File successfully backed up as E:\ratul\code\zhimera\trunkBackup\Backup\Storage\ProxyChordRing.cs">
+</Event><Event ErrorLevel="0" Project="Zhimera-ratul" Source="Storage\ProxyZhimeraNode.cs" Description="File successfully backed up as E:\ratul\code\zhimera\trunkBackup\Backup\Storage\ProxyZhimeraNode.cs">
+</Event><Event ErrorLevel="0" Project="Zhimera-ratul" Source="Storage\RangeDictionaryEnumerator.cs" Description="File successfully backed up as E:\ratul\code\zhimera\trunkBackup\Backup\Storage\RangeDictionaryEnumerator.cs">
+</Event><Event ErrorLevel="0" Project="Zhimera-ratul" Source="Storage\RangeDisctionary.cs" Description="File successfully backed up as E:\ratul\code\zhimera\trunkBackup\Backup\Storage\RangeDisctionary.cs">
+</Event><Event ErrorLevel="0" Project="Zhimera-ratul" Source="Storage\RangeValueTriplet.cs" Description="File successfully backed up as E:\ratul\code\zhimera\trunkBackup\Backup\Storage\RangeValueTriplet.cs">
+</Event><Event ErrorLevel="0" Project="Zhimera-ratul" Source="Storage\RealChordRing.cs" Description="File successfully backed up as E:\ratul\code\zhimera\trunkBackup\Backup\Storage\RealChordRing.cs">
+</Event><Event ErrorLevel="0" Project="Zhimera-ratul" Source="Storage\RedundancyManager.cs" Description="File successfully backed up as E:\ratul\code\zhimera\trunkBackup\Backup\Storage\RedundancyManager.cs">
+</Event><Event ErrorLevel="0" Project="Zhimera-ratul" Source="Storage\StorageManager.cs" Description="File successfully backed up as E:\ratul\code\zhimera\trunkBackup\Backup\Storage\StorageManager.cs">
+</Event><Event ErrorLevel="0" Project="Zhimera-ratul" Source="Storage\TRangeKey.cs" Description="File successfully backed up as E:\ratul\code\zhimera\trunkBackup\Backup\Storage\TRangeKey.cs">
+</Event><Event ErrorLevel="0" Project="Zhimera-ratul" Source="Zhimera.cs" Description="File successfully backed up as E:\ratul\code\zhimera\trunkBackup\Backup\Zhimera.cs">
+</Event><Event ErrorLevel="0" Project="Zhimera-ratul" Source="IZhimeraNode.cs" Description="File successfully backed up as E:\ratul\code\zhimera\trunkBackup\Backup\IZhimeraNode.cs">
+</Event><Event ErrorLevel="0" Project="Zhimera-ratul" Source="Zhimera-ratul.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Zhimera-ratul" Source="Zhimera-ratul.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ZhimeraTest-ratul" Source="ZhimeraTest-ratul.csproj" Description="Project file successfully backed up as E:\ratul\code\zhimera\trunkBackup\Backup\ZhimeraTest-ratul.csproj">
+</Event><Event ErrorLevel="0" Project="ZhimeraTest-ratul" Source="StorageTest\ChordCylinderTest.cs" Description="File successfully backed up as E:\ratul\code\zhimera\trunkBackup\Backup\StorageTest\ChordCylinderTest.cs">
+</Event><Event ErrorLevel="0" Project="ZhimeraTest-ratul" Source="StorageTest\RangeDictionaryEnumeratorTest.cs" Description="File successfully backed up as E:\ratul\code\zhimera\trunkBackup\Backup\StorageTest\RangeDictionaryEnumeratorTest.cs">
+</Event><Event ErrorLevel="0" Project="ZhimeraTest-ratul" Source="StorageTest\RangeDisctionaryTest.cs" Description="File successfully backed up as E:\ratul\code\zhimera\trunkBackup\Backup\StorageTest\RangeDisctionaryTest.cs">
+</Event><Event ErrorLevel="0" Project="ZhimeraTest-ratul" Source="StorageTest\RangeValueTripletTest.cs" Description="File successfully backed up as E:\ratul\code\zhimera\trunkBackup\Backup\StorageTest\RangeValueTripletTest.cs">
+</Event><Event ErrorLevel="0" Project="ZhimeraTest-ratul" Source="ZhimeraTest.cs" Description="File successfully backed up as E:\ratul\code\zhimera\trunkBackup\Backup\ZhimeraTest.cs">
+</Event><Event ErrorLevel="0" Project="ZhimeraTest-ratul" Source="ZhimeraTest-ratul.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ZhimeraTest-ratul" Source="ZhimeraTest-ratul.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Zhimera-ratul.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Zhimera-ratul.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Zhimera-ratul" Source="Zhimera-ratul.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ZhimeraTest-ratul" Source="ZhimeraTest-ratul.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

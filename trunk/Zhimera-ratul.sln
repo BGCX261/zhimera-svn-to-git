@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zhimera-ratul", "Zhimera-ratul.csproj", "{9BC745AB-38DB-4B3E-BE06-FBD06F6B1419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZhimeraTest-ratul", "ZhimeraTest-ratul.csproj", "{3B0398B6-0EA4-47C1-B396-ED1E6A850187}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxit-Zhimera", "Boxit-Zhimera\Boxit-Zhimera.csproj", "{F2CA3F44-1E77-412C-AB0A-A59769F3316C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZhimeraClient", "ZhimeraClient\ZhimeraClient.csproj", "{9DF4DAD5-B347-4164-8616-94F580914394}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BC745AB-38DB-4B3E-BE06-FBD06F6B1419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC745AB-38DB-4B3E-BE06-FBD06F6B1419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC745AB-38DB-4B3E-BE06-FBD06F6B1419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC745AB-38DB-4B3E-BE06-FBD06F6B1419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B0398B6-0EA4-47C1-B396-ED1E6A850187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0398B6-0EA4-47C1-B396-ED1E6A850187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0398B6-0EA4-47C1-B396-ED1E6A850187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0398B6-0EA4-47C1-B396-ED1E6A850187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2CA3F44-1E77-412C-AB0A-A59769F3316C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CA3F44-1E77-412C-AB0A-A59769F3316C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2CA3F44-1E77-412C-AB0A-A59769F3316C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2CA3F44-1E77-412C-AB0A-A59769F3316C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DF4DAD5-B347-4164-8616-94F580914394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF4DAD5-B347-4164-8616-94F580914394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF4DAD5-B347-4164-8616-94F580914394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF4DAD5-B347-4164-8616-94F580914394}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

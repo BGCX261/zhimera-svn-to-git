@@ -1,0 +1,82 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <ProjectGuid>{9BC745AB-38DB-4B3E-BE06-FBD06F6B1419}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Zhimera</RootNamespace>
+    <AssemblyName>Zhimera</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.Targets" />
+  <ItemGroup>
+    <Reference Include="Chord">
+      <HintPath>..\..\tashjik\trunk\bin\debug\Chord.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>..\..\..\..\Program Files\log4net\log4net-1.2.10\bin\net\2.0\release\log4net.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TashjikCommon">
+      <HintPath>..\..\tashjik\trunk\bin\debug\TashjikCommon.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="TashjikServer">
+      <HintPath>..\..\tashjik\trunk\bin\debug\TashjikServer.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="TashjikTier0">
+      <HintPath>..\..\tashjik\trunk\bin\debug\TashjikTier0.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="incentive" />
+    <Folder Include="Security" />
+    <Folder Include="Dissemination" />
+    <Folder Include="Search" />
+    <Folder Include="Security\Authentication" />
+    <Folder Include="Security\Anonymity" />
+    <Folder Include="Storage" />
+    <Compile Include="ZhimeraProxyNode.cs" />
+    <Compile Include="ZhimeraRealNode.cs" />
+    <Compile Include="Storage\ChordCylinder.cs" />
+    <Compile Include="Storage\ChordCylinderManager.cs" />
+    <Compile Include="Storage\IChordRing.cs" />
+    <Compile Include="Storage\ProxyChordRing.cs" />
+    <Compile Include="Storage\ProxyZhimeraNode.cs" />
+    <Compile Include="Storage\RangeDictionaryEnumerator.cs" />
+    <Compile Include="Storage\RangeDisctionary.cs" />
+    <Compile Include="Storage\RangeValueTriplet.cs" />
+    <Compile Include="Storage\RealChordRing.cs" />
+    <Compile Include="Storage\RedundancyManager.cs" />
+    <Compile Include="Storage\StorageManager.cs" />
+    <Compile Include="Storage\TRangeKey.cs" />
+    <Compile Include="Zhimera.cs" />
+    <Compile Include="IZhimeraNode.cs" />
+  </ItemGroup>
+</Project>
